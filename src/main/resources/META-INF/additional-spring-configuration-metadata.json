@@ -1,0 +1,9 @@
+{
+  "properties": [
+    {
+      "name": "viacep.url",
+      "type": "java.lang.String",
+      "description": "Description for viacep.url."
+    }
+  ]
+}
